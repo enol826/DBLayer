@@ -1,5 +1,5 @@
 # DBLayer
-A simple database abstraction layer.
+A database abstraction layer for the PHP language.
 
 This project intends to be a simple way of implementing a database abstration layer for day to day applications. It focus on simplicity, avoiding extensive APIs that would take you some time to explore and work with.
 
