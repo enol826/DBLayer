@@ -1,3 +1,4 @@
+<?php
 /* Using exceptions. That is, exception throwing should be enabled in the Config class. */
 
 $object = new Mysql();
@@ -15,3 +16,5 @@ try{
 }catch(DBException $ex) {
     print $ex->getMessage();
 }
+
+?>
