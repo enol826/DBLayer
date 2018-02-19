@@ -1,6 +1,8 @@
 <?php
 /* Using exceptions. That is, exception throwing should be enabled in the Config class. */
 
+
+/* require("DB.php"); */
 $object = new Mysql();
 try{
     // Connection
