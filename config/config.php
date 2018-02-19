@@ -1,5 +1,5 @@
 <?php
-    //error_reporting(E_ERROR);
+    error_reporting(E_ERROR); /* Do not show PHP errors to users. Use exceptions or your own error management system. */
     class Config{
         private $parameters =
         array(
